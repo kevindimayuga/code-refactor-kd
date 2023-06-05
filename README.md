@@ -30,10 +30,10 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Accessing the repo or webpage:
+## Accessing the Repo or Webpage:
 
 - GitHub Repo URL: https://github.com/kevindimayuga/module-one-challenge.git
-- GitHub Pages Deployment URL:
+- GitHub Pages WebPage Deployment URL:
 
 ## Webpage Screenshot
 
