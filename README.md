@@ -30,6 +30,11 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+## Accessing the repo or webpage:
+
+- GitHub Repo URL: https://github.com/kevindimayuga/module-one-challenge.git
+- GitHub Pages Deployment URL:
+
 ## Webpage Screenshot
 
 ![module one challenge webpage screenshot](./assets/images/project_screen_Shot.png)
@@ -136,11 +141,17 @@ N/A
 
 I used the following resources to help guide me to complete the refactoring project:
 
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
-- https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
-- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
-- https://blog.hubspot.com/website/comment-out-in-html#:~:text=To%20leave%20a%20comment%20in,with%20a%20team%20of%20developers.
-- https://www.w3schools.com/tags/tag_nav.asp
+- [12 Refactoring Ruels of Thumb](https://betterprogramming.pub/refactoring-rules-of-thumb-for-beginners-to-become-experts-70161c3c4f20)
+- [A Beginner's Guide to HTML Accessibility](https://blog.hubspot.com/website/html-accessibility)
+- [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [HTML Comments: How to Use Them](https://blog.hubspot.com/website/comment-out-in-html#:~:text=To%20leave%20a%20comment%20in,with%20a%20team%20of%20developers.)
+- [HTML <img> Tag](https://www.w3schools.com/tags/tag_nav.asp)
+- [HTML Images Syntax](https://www.w3schools.com/html/html_images.asp)
+- [HTML 'aside' Tag](https://www.w3schools.com/tags/tag_aside.asp)
+- [div: The Content Division Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+- [span: The Content Span element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
+- [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+- [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
 
 ## License
 
