@@ -33,11 +33,11 @@ THEN I find a concise, descriptive title
 ## Accessing the Repo or Webpage:
 
 - GitHub Repo URL: https://github.com/kevindimayuga/module-one-challenge.git
-- GitHub Pages WebPage Deployment URL:
+- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-one-challenge/
 
 ## Webpage Screenshot
 
-![module one challenge webpage screenshot](./assets/images/project_screen_Shot.png)
+![module one challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-one-challenge_.png)
 
 ## Table of Contents
 
