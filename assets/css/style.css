@@ -60,7 +60,7 @@ p {
     background-position: center;
 }
 
-/*Main Content Styles and Rules*/
+/* Main Content Styles and Rules */
 
 .maincontent {
     width: 75%;
@@ -96,7 +96,7 @@ p {
     margin-left: 25px;
 }
 
-/*Additional Content Styles and Rules*/
+/* Additional Content Styles and Rules */
 
 .benefits {
     margin-right: 20px;
@@ -125,7 +125,7 @@ p {
     max-width: 150px;
 }
 
-/*Footer Styles and Rules*/
+/* Footer Styles and Rules */
 
 .footer {
     padding: 30px;
