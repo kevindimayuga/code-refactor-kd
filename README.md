@@ -1,5 +1,7 @@
 # Module 1 Challenge - Code Refactor
 
+This repo is for module one's challenge assignment.
+
 ## Description
 
 The challenge is an On-the-job ticket/feature request Challenge (begin with starter code that you need to modify). The goal is to refactor existing code (in HTML and CSS) for a marketing agency that has hired me to make it more accessible. It is also the goal to exceed expectations and improve the codebase for long-term sustainability.
