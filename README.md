@@ -95,7 +95,6 @@ last <div> tag was updated to a <footer> tag
 made spaces between sections for clarity and cleanliness
 
 added indents where necessary for clarity and cleanliness
-
 ```
 
 CSS Updates
@@ -127,12 +126,11 @@ merged #benefit-lead, #benefit-brand, #benefit-cost into one
 merged #benefit-lead h3, #benefit-brand h3, #benefit-cost h3 into one
 
 merged #benefit-lead img, #benefit-brand img, #benefit-cost img into one
-
 ```
 
 Additional Updates
 ```
-
+N/A
 ```
 
 ## Usage
