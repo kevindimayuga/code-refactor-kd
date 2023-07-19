@@ -1,4 +1,4 @@
-# Module 1 Challenge - Code Refactor
+# Code Refactor
 
 This repo is for module one's challenge assignment.
 
@@ -34,12 +34,12 @@ THEN I find a concise, descriptive title
 
 ## Accessing the Repo or Webpage:
 
-- GitHub Repo URL: https://github.com/kevindimayuga/module-one-challenge.git
-- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-one-challenge/
+- GitHub Repo URL: https://github.com/kevindimayuga/code-refactor-kd.git
+- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/code-refactor-kd/
 
 ## Webpage Screenshot
 
-![module one challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-one-challenge_.png)
+![code refactor webpage screenshot](./assets/images/code-refactor-kd_screenshot.png)
 
 ## Table of Contents
 
