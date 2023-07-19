@@ -39,7 +39,7 @@ THEN I find a concise, descriptive title
 
 ## Webpage Screenshot
 
-![code refactor webpage screenshot](./assets/images/code-refactor-kd_screenshot.png)
+![code refactor webpage screenshot](./assets/images/kevindimayuga.github.io_code-refactor-kd.png)
 
 ## Table of Contents
 
