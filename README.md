@@ -1,6 +1,6 @@
 # Code Refactor
 
-M1 - This repo is an a Code Refactor project in which codebase is improved for long-term sustainability.
+M1 - This repo is a Code Refactor project in which codebase is improved for long-term sustainability.
 
 ## Description
 
