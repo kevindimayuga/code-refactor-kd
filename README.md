@@ -1,6 +1,6 @@
 # Code Refactor
 
-This repo is for module one's challenge assignment.
+M1 - This repo is an a Code Refactor project in which codebase is improved for long-term sustainability.
 
 ## Description
 
